@@ -33,3 +33,7 @@ pip install contextmanaged-assign
 ```
 
 Then import the `assign` function from the `contextmanaged-assign` module.
+
+## License
+
+[MIT](LICENSE)
